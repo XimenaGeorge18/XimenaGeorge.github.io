@@ -1,0 +1,31 @@
+body{
+    width: 90%; margin: 5px auto;
+    text-align: justify; /*Justificar*/
+    background:white url("../imgs/Fondo_final.jpg");
+    color: darkred;
+}
+
+p{
+    color: black; /* color y letra*/
+    /* tamaño letra*/
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.otro{
+    color: blue;
+    font-size: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px 50px;
+    border: 3px black groove;
+    border-radius: 10px;
+    
+}
+
+p.script{
+
+    color: black;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
